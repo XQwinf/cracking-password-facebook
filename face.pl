@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/ise almaraz/
 #
 # Bruteforce-Facebook
 #
@@ -19,7 +19,7 @@
 #
 # --- Imad'Ox-Bruter Facebook password cracking tool
 # --- By Imad'Ox Hunter
-# --- www.facebook.com/imad.elouajib
+# --- www.facebook.com/imad.ise almaraz
 #
 # [+] Cracking Facebooklogin@facebook.com ...
 #
